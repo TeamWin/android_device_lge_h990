@@ -76,9 +76,9 @@ TW_IGNORE_MISC_WIPE_DATA := true
 
 #Bottom
 #TW_H_OFFSET := -35
-
-TW_CLOCK_OFFSET := -1451606400
-#us996 offset 46 years
+# Lineage 14's era is mostly over, making stock right and lin15 more correct
+#TW_CLOCK_OFFSET := -1451606400
+#US996 offset 46 years
 #H918 TW_CLOCK_OFFSET := -1385672400
 
 
